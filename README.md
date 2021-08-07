@@ -4,7 +4,7 @@ Exploratory data analysis for job skills segmentation.
 
 ## Goal
 
-This code aims at clustering job skills given applicant data. The data is given as a one hot encoded dataframe where each row represent a candidate. The programme reads this data, performs Kmeans clustering. To make the analysis easier, the result are displayed as a graph. 
+This code aims at clustering job skills given applicant data. The data is given as a one hot encoded dataframe where each row represent a candidate. The programme reads this data, performs Kmeans clustering. The result of this clustering in then represented and exported as a graph. 
 
 ## Install
 
