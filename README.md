@@ -37,6 +37,13 @@ With:
 - n_clusters: The number of clusters used in kmeans
 - n_skills: The number of most frequent ones skills displayed per clusters
 
+## Improvement
+
+In terms of clustering, a more natural but similar approach would be to use Non Negative matrix factorization rather than Kmeams. 
+
+In terms of visualisation, the size and color attributes of the graph could be improve to reflect properties of the cluster (connectivity, number of candidates per skill/cluster)
+
+
 ## Author
 
 Simon Zabrocki (simon.zabrocki@gmail.com)
